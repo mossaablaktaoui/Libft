@@ -54,3 +54,4 @@ make re
 This project was written in C using the 42 coding standard (Norminette).
 
 <p align="right"><code>This project was completed in 30 October 2025.</code></p>
+
