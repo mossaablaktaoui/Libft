@@ -52,6 +52,3 @@ make re
 ## Notes
 
 This project was written in C using the 42 coding standard (Norminette).
-
-```
-
